@@ -1,0 +1,17 @@
+section{
+    background-color: rgb(142, 227, 237);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+span{
+    color: red;
+}
+.intern{
+    font-style: italic;
+}
+img{
+    border: 2px solid;
+    padding-right: 90%;
+}
